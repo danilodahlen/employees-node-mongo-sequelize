@@ -1,0 +1,21 @@
+{
+  "name": "employees-api",
+  "version": "1.0.0",
+  "description": "project ddd for control the employees",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danilo Dahlen",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "mongoose": "^5.7.10",
+    "sequelize": "^5.21.2",
+    "tedious": "^6.6.2"
+  }
+}
