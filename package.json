@@ -13,7 +13,7 @@
   "author": "Danilo Dahlen",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mongoose": "^5.7.10",
     "sequelize": "^5.21.2",
     "tedious": "^6.6.2"
